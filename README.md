@@ -14,11 +14,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Business Intelligence Analyst. I am passionate about helping businesses make sense of their raw data by transforming complex databases into clean, structured tables and clear visual stories.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on designing interactive dashboards in Power BI and Tableau that track core operational metrics, using optimized SQL queries to automate data preparation, and applying predictive forecasting models in Python to help executive teams plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy reading about economic trends and researching new strategic business frameworks. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
