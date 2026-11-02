@@ -14,11 +14,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Business Intelligence Analyst. I am passionate about helping businesses make sense of their raw data by transforming complex databases into clean, structured tables and clear visual stories.
-
-My focus is on designing interactive dashboards in Power BI and Tableau that track core operational metrics, using optimized SQL queries to automate data preparation, and applying predictive forecasting models in Python to help executive teams plan for the future.
-
-When I'm not working with data, I enjoy reading about economic trends and researching new strategic business frameworks. I love the "aha!" moment when data reveals something new and useful.
+I see data as a business story waiting to be told. As a Data & BI Analyst Specialist (graduating with a Master's in Business Analytics with Distinction), I map out the space between raw databases and executive decisions. My job is to take messy, transactional data and turn it into clear, automated pipelines and visual logic so leadership teams can stop guessing.
+How I break down my workflow:
+• The Backend: Writing clean SQL queries to handle data cleaning, data quality checks, and building star-schema relational models that actually scale.
+• The Analytics: Using Python (XGBoost, Random Forest, K-Means clustering) to look past standard metrics—digging into customer segmentation, forecasting trends, and spotting hidden revenue risks.
+• The Visuals: Taking complex stakeholder requirements and translating them into crisp, intuitive Power BI or Tableau dashboards that track live KPIs without clutter.
+Outside of writing scripts and tuning models, I spend my time tracking e-commerce trends and global trade dynamics. I love that specific moment when an operational blindspot disappears because the data is finally structured right.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
