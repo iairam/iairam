@@ -1,63 +1,51 @@
-## Hi there, I'm Iram 👋
+# Hi there, I'm Iram 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Business+Intelligence+Analyst;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
-</div>
+### 🚀 About Me
+I am a **Data & BI Analyst Specialist** (Master's in Business Analytics with Distinction) focused on turning messy operational data into clear dashboards, automated Python pipelines, and predictive models. 
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
-
-## 🚀 About Me 
-I see data as a business story waiting to be told. As a Data & BI Analyst Specialist (graduating with a Master's in Business Analytics with Distinction), I map out the space between raw databases and executive decisions. My job is to take messy, transactional data and turn it into clear, automated pipelines and visual logic so leadership teams can stop guessing.
 How I break down my workflow:
-• The Backend: Writing clean SQL queries to handle data cleaning, data quality checks, and building star-schema relational models that actually scale.
-• The Analytics: Using Python (XGBoost, Random Forest, K-Means clustering) to look past standard metrics—digging into customer segmentation, forecasting trends, and spotting hidden revenue risks.
-• The Visuals: Taking complex stakeholder requirements and translating them into crisp, intuitive Power BI or Tableau dashboards that track live KPIs without clutter.
-Outside of writing scripts and tuning models, I spend my time tracking e-commerce trends and global trade dynamics. I love that specific moment when an operational blindspot disappears because the data is finally structured right.
+- **The Backend:** Writing clean Oracle SQL queries to handle data cleaning, quality audits, and building normalized relational models that scale.
+- **The Analytics:** Using Python (Pandas, Scikit-Learn, XGBoost, Random Forest, K-Means) to look past standard metrics—digging into customer segmentation, forecasting trends, and spotting hidden revenue risks.
+- **The Visuals:** Translating complex business requirements into intuitive Power BI dashboards and interactive Streamlit web apps that track live KPIs without clutter.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+Outside of writing scripts and tuning models, I spend my time tracking e-commerce trends and global trade dynamics. I am currently open to remote **Business Intelligence Analyst**, **Data Analyst**, and **Operations Analyst** roles.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+---
 
-## 🌱 Currently Learning 
+### 📂 Featured Projects
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+#### 1. [Hotel Booking Cancellations & Revenue Leakage Dashboard](https://github.com)
+- **Tools:** Python (Pandas), Power BI
+- **Summary:** Cleaned 119,390 hotel reservation records and built an interactive Power BI dashboard to track $16.73M in lost revenue. Isolated long lead times (>144 days) and online travel agencies as the primary drivers of a 37% cancellation rate.
 
-## 🛠️ Technical Skillset
+#### 2. [UAE Trade Diversification: ML Framework & Dual-Tab Streamlit App](https://github.com)
+- **Tools:** Python, Scikit-Learn, K-Means, Gradient Boosting, Streamlit
+- **Summary:** Analyzed 12 years of World Bank trade data (2012–2023) across 97 industrial chapters. Built a K-Means clustering model to separate shipping transit hubs from local import dependencies, paired with a Gradient Boosting forecaster ($R^2 = 0.678$) deployed inside an interactive two-tab Streamlit web application.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+#### 3. [Predictive Logistics Delays: Thresholds vs. Machine Learning](https://github.com)
+- **Tools:** Python, Statsmodels (Logit), Logistic Regression, Random Forest, XGBoost, SMOTE
+- **Summary:** Tested whether traditional 90% capacity rules actually predict supply chain delays across 1,000 shipments. Proved that multivariate Logistic Regression (AUC = 0.817) outperforms static thresholds and revealed that heavy traffic increases delay odds by 14.7×.
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+#### 4. [Enterprise Database Modeling & Python Data Quality Pipeline](https://github.com)
+- **Tools:** Oracle SQL, Python (Pandas, Seaborn, Matplotlib, Regex)
+- **Summary:** Designed and populated a 5-table relational database with 10 advanced analytical SQL queries (using `RANK()`, `PERCENTILE_CONT`, and `EXISTS`). Built a visual diagnostic dashboard and automated Python cleaning pipeline to fix missing values, duplicates, and formatting errors across 483 bank customer records.
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+---
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+### 🛠️ Technical Skillset
+- **Data Analysis & Visualization:** SQL, Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, XLOOKUP), Streamlit
+- **Programming & Automation:** Python (Pandas, NumPy, Scikit-Learn, Statsmodels, XGBoost, Matplotlib, Seaborn, Regex), R
+- **Business Intelligence & Analytics:** Revenue Leakage Analysis, K-Means Clustering, Time-Series Forecasting, Logistic Regression, A/B & Threshold Testing, KPI Development
+
+---
+
+### 🌱 Currently Exploring
+- Cloud data warehousing architectures and scalable ETL workflows
+- Advanced ensemble modeling and automated anomaly detection in Python
+
+---
+
+### 📫 Let's Connect
+- **Portfolio Website:** [Add Your Website Link Here]
+- **LinkedIn:** [Add Your LinkedIn Link Here]
+- **Email:** ia765@uowmail.edu.au
