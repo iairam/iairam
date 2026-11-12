@@ -1,7 +1,7 @@
 # Hi there, I'm Iram 👋
 
 ### 🚀 About Me
-I am a **Data & BI Analyst Specialist** (Master's in Business Analytics with Distinction) focused on turning messy operational data into clear dashboards, automated Python pipelines, and predictive models. 
+I am a **Data & BI Analyst Specialist** (Master's in Business Analytics) and experience as a Data Analyst focused on turning messy operational data into clear dashboards, automated Python pipelines, and predictive models. 
 
 How I break down my workflow:
 - **The Backend:** Writing clean Oracle SQL queries to handle data cleaning, quality audits, and building normalized relational models that scale.
