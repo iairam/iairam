@@ -47,5 +47,5 @@ Outside of writing scripts and tuning models, I spend my time tracking e-commerc
 
 ### 📫 Let's Connect
 - **Portfolio Website:** [Add Your Website Link Here]
-- **LinkedIn:** [linkedin.com/in/irambusinessanalyst]
-- **Email:** [ia.iramashfaq@gmail.com]
+- **LinkedIn:** linkedin.com/in/irambusinessanalyst
+- **Email:** ia.iramashfaq@gmail.com
