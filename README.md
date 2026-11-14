@@ -1,4 +1,4 @@
-Hi there, I'm Iram 👋
+## Hi there, I'm [Your Name] 👋
 
 ### 🚀 About Me
 I am a **Data & BI Analyst Specialist** (Master's in Business Analytics) and experience as a Data Analyst focused on turning messy operational data into clear dashboards, automated Python pipelines, and predictive models. 
