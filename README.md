@@ -1,4 +1,4 @@
-<img width="533" height="457" alt="image" src="https://github.com/user-attachments/assets/aa3e6ede-5288-47b1-ac45-042afed970de" /># Hi there, I'm Iram 👋
+Hi there, I'm Iram 👋
 
 ### 🚀 About Me
 I am a **Data & BI Analyst Specialist** (Master's in Business Analytics) and experience as a Data Analyst focused on turning messy operational data into clear dashboards, automated Python pipelines, and predictive models. 
